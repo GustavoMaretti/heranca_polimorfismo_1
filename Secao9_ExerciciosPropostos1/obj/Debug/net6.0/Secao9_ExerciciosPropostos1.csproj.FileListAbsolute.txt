@@ -1,0 +1,15 @@
+C:\C#\Secao9_ExerciciosPropostos1\Secao9_ExerciciosPropostos1\bin\Debug\net6.0\Secao9_ExerciciosPropostos1.exe
+C:\C#\Secao9_ExerciciosPropostos1\Secao9_ExerciciosPropostos1\bin\Debug\net6.0\Secao9_ExerciciosPropostos1.deps.json
+C:\C#\Secao9_ExerciciosPropostos1\Secao9_ExerciciosPropostos1\bin\Debug\net6.0\Secao9_ExerciciosPropostos1.runtimeconfig.json
+C:\C#\Secao9_ExerciciosPropostos1\Secao9_ExerciciosPropostos1\bin\Debug\net6.0\Secao9_ExerciciosPropostos1.dll
+C:\C#\Secao9_ExerciciosPropostos1\Secao9_ExerciciosPropostos1\bin\Debug\net6.0\Secao9_ExerciciosPropostos1.pdb
+C:\C#\Secao9_ExerciciosPropostos1\Secao9_ExerciciosPropostos1\obj\Debug\net6.0\Secao9_ExerciciosPropostos1.csproj.AssemblyReference.cache
+C:\C#\Secao9_ExerciciosPropostos1\Secao9_ExerciciosPropostos1\obj\Debug\net6.0\Secao9_ExerciciosPropostos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Secao9_ExerciciosPropostos1\Secao9_ExerciciosPropostos1\obj\Debug\net6.0\Secao9_ExerciciosPropostos1.AssemblyInfoInputs.cache
+C:\C#\Secao9_ExerciciosPropostos1\Secao9_ExerciciosPropostos1\obj\Debug\net6.0\Secao9_ExerciciosPropostos1.AssemblyInfo.cs
+C:\C#\Secao9_ExerciciosPropostos1\Secao9_ExerciciosPropostos1\obj\Debug\net6.0\Secao9_ExerciciosPropostos1.csproj.CoreCompileInputs.cache
+C:\C#\Secao9_ExerciciosPropostos1\Secao9_ExerciciosPropostos1\obj\Debug\net6.0\Secao9_ExerciciosPropostos1.dll
+C:\C#\Secao9_ExerciciosPropostos1\Secao9_ExerciciosPropostos1\obj\Debug\net6.0\refint\Secao9_ExerciciosPropostos1.dll
+C:\C#\Secao9_ExerciciosPropostos1\Secao9_ExerciciosPropostos1\obj\Debug\net6.0\Secao9_ExerciciosPropostos1.pdb
+C:\C#\Secao9_ExerciciosPropostos1\Secao9_ExerciciosPropostos1\obj\Debug\net6.0\Secao9_ExerciciosPropostos1.genruntimeconfig.cache
+C:\C#\Secao9_ExerciciosPropostos1\Secao9_ExerciciosPropostos1\obj\Debug\net6.0\ref\Secao9_ExerciciosPropostos1.dll
